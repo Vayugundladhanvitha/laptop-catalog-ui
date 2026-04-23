@@ -12,4 +12,4 @@ This is a basic UI project built using HTML and CSS.
 - CSS3
 
 ## Author
-Harshavardhan Reddy Banka
+Vayugundla Dhanvitha
